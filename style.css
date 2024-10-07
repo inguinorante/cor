@@ -1,0 +1,22 @@
+body, html{
+margin: 0;
+padding: 0;
+height: 100%;
+display: flex;
+justify-content: center;
+align-items: center;
+}
+
+.troca-cor{
+    text-align: center;
+    padding: 20px;
+    border: 1px solid rgba(0, 0, 0, 0.228);
+    border-radius: 15px;
+}
+
+button{
+    padding: 5px 10px;
+    font-size: 12px;
+    cursor: pointer;
+    
+}
